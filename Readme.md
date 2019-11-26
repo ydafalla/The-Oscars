@@ -42,6 +42,16 @@ The following graphs were plotted. They give you different views of the data.
 #### Performance by top teams
 ![Team_Performance](Pictures/performance_by_top_teams.png)
 
+#### Proportion of game outcomes
+![Proportion of game outcomes](Pictures/proportion_of_game_outcomes.png)
+
+#### Top Teams by league
+![Top Teams by League](Pictures/top_teams_by_league.png)
+
+#### World Cloud
+![World Cloud of Top Teams](Pictures/world_cloud.png)
+
+
 ## Discussion:
 Different visualizations were obtained for the dataset. Each visualization gives you a different view on the data. This visualizations are very helpful in data science projects because they allow you to get different perspectives about the data.
 
