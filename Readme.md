@@ -20,6 +20,8 @@ The data are contained in the files spi_global_rankings.csv, spi_global_rankings
     * The first feature is called win that specified which of the two teams won the match. The value of this column is either "team1" or "team2" or "draw".
     * The second feature is called lost that specifies which of the two teams lost the match. The value of this column is either "team1" or "team2" or "draw".
    * The third feature is called outcome side that specifies whether the home or away team won the match. The value for this column is either "Home team won", "Away team won" or "Draw".
+   
+   * The year feature was also extracted from the date.
 
 
 ### Story Telling
